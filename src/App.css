@@ -1,3 +1,5 @@
+/* src/App.css */
+
 .App {
   text-align: center;
 }
@@ -26,6 +28,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.always-focused .form-label {
+  transform: scale(0.75) translateY(-1.5rem) !important;
 }
 
 @keyframes App-logo-spin {
